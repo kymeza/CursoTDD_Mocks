@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoTDD_Mocks", "CursoTDD_Mocks\CursoTDD_Mocks.csproj", "{01483D9C-6ACA-4553-A103-A38354F5151D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01483D9C-6ACA-4553-A103-A38354F5151D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01483D9C-6ACA-4553-A103-A38354F5151D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01483D9C-6ACA-4553-A103-A38354F5151D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01483D9C-6ACA-4553-A103-A38354F5151D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0799DCBF-5180-4725-9D88-526F52BE6B62}
+	EndGlobalSection
+EndGlobal
